@@ -8,20 +8,15 @@
     "start": "nodemon app.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shreyyyy/blog-site.git"
+    "type": "git"
   },
   "keywords": [
     "nodejs",
     "expressjs",
     "mongoose"
   ],
-  "author": "Shrey K Sinha",
+  "author": "Mark42",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Shreyyyy/blog-site/issues"
-  },
-  "homepage": "https://github.com/Shreyyyy/blog-site#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
     "ejs": "^3.1.3",
